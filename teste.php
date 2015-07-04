@@ -1,1 +1,5 @@
-<? echo "teste" ?>
+<?php phpinfo(); ?>
+
+Ola!
+
+
