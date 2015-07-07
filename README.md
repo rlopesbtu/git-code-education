@@ -1,4 +1,4 @@
 ######### GIT HUB
 
-- git add README.txt 
-- git push origin master
+- git -b Projeto01
+- vim ProjetoGit.txt
